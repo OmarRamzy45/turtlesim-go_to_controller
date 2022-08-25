@@ -1,0 +1,8 @@
+prefix=/home/ramzy/first_WS/devel
+
+Name: go_to_control
+Description: Description of go_to_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

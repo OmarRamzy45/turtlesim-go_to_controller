@@ -1,0 +1,4 @@
+<launch>
+<rosparam command ="load" file="$(find go_to_control)/config/values.yaml" />
+<node name="turtle_controller" pkg="go_to_control" type="main_code.py" output ="screen"/>
+</launch>

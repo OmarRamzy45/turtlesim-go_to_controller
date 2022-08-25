@@ -1,0 +1,2 @@
+go_to_control
+-DCATKIN_DEVEL_PREFIX=/home/ramzy/first_WS/devel -DCMAKE_INSTALL_PREFIX=/home/ramzy/first_WS/install -G Unix Makefiles
